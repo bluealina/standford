@@ -1,1 +1,1 @@
-# stanford
+# standford
